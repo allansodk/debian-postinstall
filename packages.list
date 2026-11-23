@@ -1,0 +1,13 @@
+sudo
+vim
+tmux
+htop
+curl
+git
+fail2ban
+unattended-upgrades
+chrony
+rsync
+borgbackup
+ncdu
+tree
